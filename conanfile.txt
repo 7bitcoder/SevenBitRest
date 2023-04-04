@@ -1,0 +1,13 @@
+[requires]
+boost/1.80.0
+certify/cci.20201114
+openssl/1.1.1q
+zlib/1.2.12
+gtest/1.8.1
+libcurl/7.85.0
+benchmark/1.7.0
+
+[generators]
+cmake
+CMakeDeps
+CMakeToolchain
